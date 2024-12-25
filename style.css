@@ -1,0 +1,26 @@
+body{
+    background-color: #B99470;
+}
+#OLApng{
+    width: 50%;
+    border:10px solid #674636;
+    margin-left: 25%;
+}
+div{
+    width: 70%;
+    margin-left: 15%;
+}
+#div1st{
+    margin-top: 30px;
+}
+p{
+    color: #674636;
+    margin-left: 22.5%;
+    font-family: "Playwrite MX Guides", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h2{
+    margin-left: 25%;
+    text-transform: capitalize;
+}
